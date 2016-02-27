@@ -1,4 +1,3 @@
-![Friendly Code logo](https://github.com/friendlycode/strategic_plan/assets/FriendlyCode.png)
 
 ## Friendly Code's Strategic Plan
 The final version of [Friendly Code’s Strategic Plan for 2016](https://github.com/friendlycode/strategic_plan/blob/master/2016-strategic-plan.md) was submitted to [Code for America](http://www.codeforamerica.org). As part of the 2016 strategic planning process, [Friendly Code](http://friendlycode.org) asked members to complete a survey, that asked, among other things, how members felt that the 2015 goals were accomplished. Following the survey Friendly Code held a moderated workshop to discuss the results and work toward identifying broad topics that Friendly Code should focus on for the upcoming year.
@@ -16,7 +15,7 @@ Friendly Code’s strategic plan includes the following areas of focus:
 
 ## How To Participate
 
-Please make sure you read our [Code of Conduct](https://github.com/friendlycode/codeofconduct/blob/master/README.md) before participating. Following our Code of Conduct is a requirement for participation. Beyond the Code of Conduct we welcome the participation of everyone in contributing to improving our brigade and our community.
+Please make sure you read our [Code of Conduct](https://github.com/friendlycode/codeofconduct/blob/master/README.md) before participating. Following our Code of Conduct is a requirement for participation. Beyond the Code of Conduct we welcome the participation of everyone in contributing to improving our brigade and our community. If you're unsure or afraid of anything, just ask or submit the issue or pull request anyways. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contribution, and don't want a wall of rules to get in the way of that.
 
 Check out the work of the focus area that interests you. Also take a moment to look at the Waffle created for the work of the Strategic Plan. Issues and ideas can be shared within Waffle.
 

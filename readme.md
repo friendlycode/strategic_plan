@@ -33,4 +33,9 @@ If you want to add or edit content please follow the steps below.
 Feel free to ping [@allen616](https://github.com/Allen616) with any questions you may have.
 
 ## License
+
 Read our [license](https://github.com/friendlycode/strategic_plan/blob/master/license.md) based on the MIT license.
+
+
+### Quick Links
+[Read Me](https://github.com/friendlycode/strategic_plan/blob/master/readme.md) | [Strategic Plan](https://github.com/friendlycode/strategic_plan/blob/master/2016-strategic-plan.md) | [Issue Tracker (Waffle)](https://waffle.io/friendlycode/strategic_plan) | [Goal Matrix](https://github.com/friendlycode/strategic_plan/blob/master/goal-matrix.md) | [Project Management](https://github.com/friendlycode/strategic_plan/tree/master/project-management) | [Leadership Structure](https://github.com/friendlycode/strategic_plan/tree/master/leadership-structure) | [Fundraising](https://github.com/friendlycode/strategic_plan/tree/master/fundraising) | [Programming](https://github.com/friendlycode/strategic_plan/tree/master/programming) | [People & Partnerships](https://github.com/friendlycode/strategic_plan/tree/master/people-partnerships) | [Financial Management](https://github.com/friendlycode/strategic_plan/tree/master/financial-management)

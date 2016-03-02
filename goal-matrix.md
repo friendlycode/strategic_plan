@@ -68,3 +68,8 @@ This is the 2016 goal matrix, from Friendly Code's [working document](https://do
 |----------------------------------------------------|----------|----------------------------|
 | Develop a budget using the tools provided by CfA   |          |                            |
 | Develop an appropriate financial management system |          |                            |
+
+
+
+### Quick Links
+[Read Me](https://github.com/friendlycode/strategic_plan/blob/master/readme.md) | [Strategic Plan](https://github.com/friendlycode/strategic_plan/blob/master/2016-strategic-plan.md) | [Issue Tracker (Waffle)](https://waffle.io/friendlycode/strategic_plan) | [Goal Matrix](https://github.com/friendlycode/strategic_plan/blob/master/goal-matrix.md) | [Project Management](https://github.com/friendlycode/strategic_plan/tree/master/project-management) | [Leadership Structure](https://github.com/friendlycode/strategic_plan/tree/master/leadership-structure) | [Fundraising](https://github.com/friendlycode/strategic_plan/tree/master/fundraising) | [Programming](https://github.com/friendlycode/strategic_plan/tree/master/programming) | [People & Partnerships](https://github.com/friendlycode/strategic_plan/tree/master/people-partnerships) | [Financial Management](https://github.com/friendlycode/strategic_plan/tree/master/financial-management)

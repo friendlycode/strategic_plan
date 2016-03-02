@@ -1,6 +1,6 @@
 #### About The Goal Matrix
 
-This is the Goal Matrix that is a Friendly Code working document created as part of the 2016 Strategic Plan. Below are the individual goals of each focus area that was identified by Friendly Code's membership. The goals from below can also be found in the issue tracker within the Strategic Plan Github. Progress and work toward these goals/issues are in turn are trackable in the Strategic Plan waffle.
+This is the Goal Matrix, a Friendly Code [working document](https://docs.google.com/a/friendlycode.org/document/d/15WRkZ5ttZud_2EW3N0IS9V29AX7grnd6sqB4wFVLmvo/edit?usp=drivesdk), created as part of the 2016 Strategic Plan. Below are the individual goals of each focus area that was identified by Friendly Code's membership. The goals from below can also be found in the [issue tracker](https://github.com/friendlycode/strategic_plan/issues) within the Strategic Plan Github. Progress and work toward these goals/issues are in turn are trackable in the [Strategic Plan waffle](https://waffle.io/friendlycode/strategic_plan).
 
 
 ## Project Management

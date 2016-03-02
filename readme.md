@@ -1,9 +1,11 @@
-[![Stories in Backlog](https://badge.waffle.io/friendlycode/strategic_plan.svg?label=ready&title=Backlog)](http://waffle.io/friendlycode/strategic_plan) [![Stories in Ready](https://badge.waffle.io/friendlycode/strategic_plan.svg?label=ready&title=Ready)](http://waffle.io/friendlycode/strategic_plan) [![Stories in In%20Progress](https://badge.waffle.io/friendlycode/strategic_plan.svg?label=ready&title=In%20Progress)](http://waffle.io/friendlycode/strategic_plan) [![Stories in Done](https://badge.waffle.io/friendlycode/strategic_plan.svg?label=ready&title=Done)](http://waffle.io/friendlycode/strategic_plan)
+[![Stories in Ready](https://badge.waffle.io/friendlycode/strategic_plan.svg?label=ready&title=Ready)](http://waffle.io/friendlycode/strategic_plan)
 
 ## Friendly Code's Strategic Plan
 The final version of [Friendly Code’s Strategic Plan for 2016](https://github.com/friendlycode/strategic_plan/blob/master/2016-strategic-plan.md) was submitted to [Code for America](http://www.codeforamerica.org). As part of the 2016 strategic planning process, [Friendly Code](http://friendlycode.org) asked members to complete a survey, that asked, among other things, how members felt that the 2015 goals were accomplished. Following the survey Friendly Code held a moderated workshop to discuss the results and work toward identifying broad topics that Friendly Code should focus on for the upcoming year.
 
-This Git repository aims to to serve as the go-to place for all of a team's working information, even if the information is provided as links to other sources. This will help individuals and teams to participate, organize, and easily share their information and to enable easy exploration of the connections between team members. Additional coordination and communication will take place within Slack and you can [track or add issues via Waffle](https://waffle.io/friendlycode/strategic_plan).
+This Git repository aims to to serve as the go-to place for all of a team's working information, even if the information is provided as links to other sources. This will help individuals and teams to participate, organize, and easily share their information and to enable easy exploration of the connections between team members. 
+
+Additional coordination and communication will take place within Slack and you can [track or add issues via Waffle](https://waffle.io/friendlycode/strategic_plan). If you prefer you can view the individual [goals in a matrix format](https://github.com/friendlycode/strategic_plan/blob/master/goal-matrix.md).
 
 Friendly Code’s strategic plan includes the following areas of focus:
 

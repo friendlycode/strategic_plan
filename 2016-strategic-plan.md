@@ -124,3 +124,7 @@ The end of 2015 also saw the end of annual support of brigades by CfA, which his
 	- [2016 budget](https://docs.google.com/a/friendlycode.org/spreadsheets/d/1dxs8he7WkPdQoAV7xwKhz-_BOEgIVlZ3Sk4q1I30ck0/edit?usp=sharing)
 	- [projects and events spreadsheet](https://docs.google.com/a/friendlycode.org/spreadsheets/d/1gD4gYftmQlkm5djveCzkOwvYDUCz8XINVZzBPcHaBRc/edit?usp=sharing)
 - Develop an appropriate financial management system by the end of Q4.
+
+
+### Quick Links
+[Read Me](https://github.com/friendlycode/strategic_plan/blob/master/readme.md) | [Strategic Plan](https://github.com/friendlycode/strategic_plan/blob/master/2016-strategic-plan.md) | [Issue Tracker (Waffle)](https://waffle.io/friendlycode/strategic_plan) | [Goal Matrix](https://github.com/friendlycode/strategic_plan/blob/master/goal-matrix.md) | [Project Management](https://github.com/friendlycode/strategic_plan/tree/master/project-management) | [Leadership Structure](https://github.com/friendlycode/strategic_plan/tree/master/leadership-structure) | [Fundraising](https://github.com/friendlycode/strategic_plan/tree/master/fundraising) | [Programming](https://github.com/friendlycode/strategic_plan/tree/master/programming) | [People & Partnerships](https://github.com/friendlycode/strategic_plan/tree/master/people-partnerships) | [Financial Management](https://github.com/friendlycode/strategic_plan/tree/master/financial-management)
